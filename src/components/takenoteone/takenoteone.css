@@ -1,0 +1,33 @@
+.noteContainer{
+    width: 40vw;
+    height: 7vh;
+    margin-left: 30vw;
+    margin-top: 5vh;
+    border-radius: 8px;
+    box-shadow: 0 1px 7px darkgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center ;
+    border: 1px solid rgb(181, 173, 173);
+}
+.note{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    font: 1.1em sans-serif;
+    color: rgb(81, 79, 79);
+    margin-left: 3%;
+}
+.right{
+    width: 100px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    margin-left: 200px;
+} 

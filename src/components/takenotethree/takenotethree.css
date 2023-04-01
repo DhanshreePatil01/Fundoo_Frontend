@@ -1,0 +1,36 @@
+/* .note{
+    width: 12vw;
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid rgb(10, 10, 10);
+    border-radius: 3px;
+    margin-left: 30px;
+}
+.note-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width:90px;
+    color: black;     
+    align-items: center;
+    font-weight: bold;
+    font-size: 18px; 
+}
+.note-desc{
+     display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width:90%;
+    font-size: 22px;
+} 
+.note-icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 12vw;
+} */
